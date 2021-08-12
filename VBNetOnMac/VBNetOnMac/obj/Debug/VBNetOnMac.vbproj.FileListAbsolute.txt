@@ -1,0 +1,6 @@
+/Users/kato/Desktop/VB.net/VBNetOnMac/VBNetOnMac/bin/Debug/VBNetOnMac.exe
+/Users/kato/Desktop/VB.net/VBNetOnMac/VBNetOnMac/bin/Debug/VBNetOnMac.pdb
+/Users/kato/Desktop/VB.net/VBNetOnMac/VBNetOnMac/obj/Debug/VBNetOnMac.vbproj.AssemblyReference.cache
+/Users/kato/Desktop/VB.net/VBNetOnMac/VBNetOnMac/obj/Debug/VBNetOnMac.vbproj.CoreCompileInputs.cache
+/Users/kato/Desktop/VB.net/VBNetOnMac/VBNetOnMac/obj/Debug/VBNetOnMac.exe
+/Users/kato/Desktop/VB.net/VBNetOnMac/VBNetOnMac/obj/Debug/VBNetOnMac.pdb
